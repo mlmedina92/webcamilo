@@ -701,6 +701,8 @@ button {
 
 .gb-cta-1 {
 	background-image: url(../images/bg/parallax-1.jpg);
+	background-position: center center;
+
 }
 
 .cta-info h1 {
@@ -825,6 +827,7 @@ button {
 
 .gb-video-section {
 	background-image: url(../images/bg/parallax-2.jpg);
+	background-position: center center;
 }
 
 .video-link {
@@ -1137,6 +1140,8 @@ button {
 
 .gb-cta-2 {
  	background-image: url(../images/bg/parallax-3.jpg);
+	 background-position: center center;
+
 }
 
 .cta-image img {
@@ -1263,8 +1268,9 @@ li.sticky-post,
 /* Gb Cta 3 */
 
 .gb-cta-3 {
- 	/*background-image: url(../images/bg/parallax-4.jpg);*/
  	background-image: url(../images/bg/parallax1.jpg);
+	background-position: center center;
+
 }
 
 .gb-cta-3 .cta-info h1 {
@@ -1274,8 +1280,9 @@ li.sticky-post,
 /* Gb Cta 4 */
 
 .gb-cta-4 {
- 	/*background-image: url(../images/bg/parallax-4.jpg);*/
  	background-image: url(../images/bg/parallax2.jpg);
+	 background-position: center center;
+
 }
 
 .gb-cta-4 .cta-info h1 {
@@ -1285,8 +1292,8 @@ li.sticky-post,
 /* Gb Cta 5 */
 
 .gb-cta-5 {
- 	/*background-image: url(../images/bg/parallax-4.jpg);*/
- 	background-image: url(../images/bg/parallax3.jpg);
+	background-image: url(../images/bg/parallax3.jpg);
+	background-position: center center;
 }
 
 .gb-cta-5 .cta-info h1 {
@@ -1471,6 +1478,8 @@ li.sticky-post,
 
 .gb-twitter {
 	background-image: url(../images/bg/parallax-5.jpg);
+	background-position: center center;
+
 }
 
 .gb-twitter.section-before:before {
